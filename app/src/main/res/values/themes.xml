@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.OOBE" parent="@style/Theme.Leanback" />
+</resources>
